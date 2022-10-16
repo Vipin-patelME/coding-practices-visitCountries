@@ -1,0 +1,51 @@
+.main-cont {
+  background-color: #161624;
+  min-height: 100vh;
+  background-size: cover;
+}
+.main-head {
+  color: #f8fafc;
+  font-family: 'Roboto';
+  font-size: 19px;
+  margin-left: 25px;
+  padding-top: 20px;
+}
+.countryname-cont {
+  background-color: #334155;
+  height: 250px;
+  width: 80%;
+  list-style: none;
+  margin-left: 10%;
+  margin-right: 10%;
+  overflow: auto;
+}
+.country-name-btn-cont {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-right: 30px;
+}
+.country-name {
+  color: #f1f5f9;
+  font-family: 'Roboto';
+  font-size: 14px;
+}
+.country-image {
+  height: 150px;
+  width: 250px;
+}
+.visited-contry-list {
+  list-style: none;
+  width: 20%;
+  margin: 15px;
+}
+.remove-btn-cont {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.visited-contry-cont {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 5%;
+}
